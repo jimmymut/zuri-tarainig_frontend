@@ -64,4 +64,9 @@
     .button-3{
         color: hsl(179, 100%, 13%);
     }
+    a{
+        font-size: 200%;
+        color: blue;
+        text-align: center;
+    }
 }
