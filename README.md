@@ -1,0 +1,1 @@
+Learning reponsiveness and Media Queries design with I4GxZuri Training
