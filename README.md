@@ -1,1 +1,1 @@
-Learning reponsiveness and Media Queries design with I4GxZuri Training
+Introduction to JavaScript with I4GxZuri Training
